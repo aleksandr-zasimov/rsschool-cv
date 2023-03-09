@@ -55,3 +55,21 @@ function rentalCarCost(d) {
 * Used SASS for creating CSS frameworks to store things like colors, font stacks, or any CSS value.
 **[Git Hub](https://https://github.com/aleksandr-zasimov/Furniture-Store)**
 
+---
+
+## ✨EDUCATION✨
+
+#### **SkyPro University** | Saint-Petersburg, RU | 2022 - till now
+> Certificate, Web Development
+#### **Saint Petersburg Mining University** | Saint-Petersburg, RU | 2008 - 2015
+> Diploma of Higher Education, Economics and Management
+#### **North-Eastern Federal University (former Yakutsk State University)** | Yakutsk, RU | 2003 - 2008
+> Diploma of Higher Education, Mineral processing
+---
+
+## ✨LANGUAGES✨
+| Language | Level |
+| ------ | ------ |
+| Russian | Native |
+| English | Pre-Intermediate |
+| German | Elementary |
