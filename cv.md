@@ -11,3 +11,47 @@ After graduation, I see myself as an enthusiastic and detail-oriented Frontend S
 In my opinion, becoming a frontend developer is an excellent career move. It's a job you can teach yourself online, the potential salary is high, and there'll be demand for your abilities for years to come.**
 
 ---
+
+
+## ✨TECHNICAL SKILLS✨
+
+* HTML5
+* CSS & SCSS
+* VS Code
+* Responsive Web Design
+* Git
+* Git Hub
+* Figma
+* Agile workflow
+
+---
+
+## ✨CODE EXAMPLE✨
+```sh
+function rentalCarCost(d) {
+    let costPerDay = 40;
+    let totalCost = costPerDay * d;
+    if (d >= 1 && d < 3) {
+        return (totalCost);
+    }
+    else if (d >= 3 && d < 7) {
+        return (totalCost -= 20);
+    }
+    else if (d >= 7) {
+        return (totalCost -= 50);
+    }  
+}
+```
+
+---
+
+## ✨PROJECTS✨
+
+#### **[Furniture Store](https://aleksandr-zasimov.github.io/Furniture-Store/)** | November 2022
+
+* Developed the front end of the entire website using HTML5, CSS3, and Javascript.
+* Converted raw images and layouts from a graphic designer into CSS/HTML themes.
+* Implemented web pages using the semantic markup and page layout of HTML5.
+* Used SASS for creating CSS frameworks to store things like colors, font stacks, or any CSS value.
+**[Git Hub](https://https://github.com/aleksandr-zasimov/Furniture-Store)**
+
