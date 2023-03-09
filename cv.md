@@ -61,9 +61,11 @@ function rentalCarCost(d) {
 
 #### **SkyPro University** | Saint-Petersburg, RU | 2022 - till now
 > Certificate, Web Development
+>
 #### **Saint Petersburg Mining University** | Saint-Petersburg, RU | 2008 - 2015
 > Diploma of Higher Education, Economics and Management
-#### **North-Eastern Federal University (former Yakutsk State University)** | Yakutsk, RU | 2003 - 2008
+>
+#### **North-Eastern Federal University** | Yakutsk, RU | 2003 - 2008
 > Diploma of Higher Education, Mineral processing
 ---
 
