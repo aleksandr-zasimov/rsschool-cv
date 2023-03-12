@@ -1,3 +1,3 @@
 # My links:
-## Markdown CV
+## CSS Bayan
 **https://aleksandr-zasimov.github.io/cssBayan/cssBayan/index.html**
